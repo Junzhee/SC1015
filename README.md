@@ -13,7 +13,7 @@ This is a mini project for the course of SC1015, Introduction to Data Science an
 ## Problem Defination
 
 * Can we predict the job salary using related features?
-* What features are influecing the features most?
+* What features are influencing the features most?
 * Can we detect the salaris that are not reasonable?
 
 ## Models
